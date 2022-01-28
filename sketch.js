@@ -12,7 +12,7 @@ function draw() {
   rectMode(CENTER);
 
   stroke(255);    
- for(var x=0; x<width; x= x+1){
+ for(var x=0; x<200; x= x+1){
 
 mainCircle();
 stars();
